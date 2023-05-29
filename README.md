@@ -1,3 +1,3 @@
 # bookshop_microservice
 
-https://github.com/sajal-halder/BookshopConfig repo for config server
+https://github.com/sajal-halder/BookshopConfig url repo for config server
